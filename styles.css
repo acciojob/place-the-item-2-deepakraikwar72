@@ -1,2 +1,24 @@
+.holder{
+	display:flex;
+	justify-content: center;
+	flex-wrap:wrap;
+}
 
-/* Your CSS Code here. */
+.a{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: green ;
+}
+.b{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color: red ;
+}
+.c{
+	display: inline-block;
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
